@@ -1,2 +1,11 @@
-# QLinux
-A simple Python Script to launch basic system tools with ease(Work in Progress..) 
+=============================== # QLinux ===============================
+
+You can Edit/Modify this simple Python script, even without asking. However, it’s always a good gesture to give credit where it’s due.
+
+For now, this simple script is like a “Windows Quick Launch” for newbie on Linux(Basically Kali Linux). The purpose of writing this script is to overcome the hurdle and ease the use of most advanced and powerful Open-Source/Free Operating Linux as I felt like lost in ocean when started using Linux for the first time.
+
+I invite everyone looking at this(README) to contribute and suggest for further improvement & development as this would make life easy for those who love open source technology like you and me, but find it difficult to take first step as they are not familiar with Linux.
+
+How to Use It?
+
+Either by using Python interpreter directly i.e: ( python QLinux.py ) Compile and run directly i.e (chmod +x QLinux.py)
