@@ -9,3 +9,6 @@ I invite everyone looking at this(README) to contribute and suggest for further 
 How to Use It?
 
 Either by using Python interpreter directly i.e: ( python QLinux.py ) Compile and run directly i.e (chmod +x QLinux.py)
+
+
+Feel Free to Write back(mohan.2kit@gmail.com), I would be waiting for your valuable suggestions, Good or Bad :)
