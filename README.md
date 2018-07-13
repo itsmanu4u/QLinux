@@ -1,5 +1,17 @@
 =============================== # QLinux ===============================
 
+     /$$$$$$  /$$       /$$                              
+    /$$__  $$| $$      |__/                              
+   | $$  \ $$| $$       /$$ /$$$$$$$  /$$   /$$ /$$   /$$
+   | $$  | $$| $$      | $$| $$__  $$| $$  | $$|  $$ /$$/
+   | $$  | $$| $$      | $$| $$  \ $$| $$  | $$ \  $$$$/ 
+   | $$/$$ $$| $$      | $$| $$  | $$| $$  | $$  >$$  $$ 
+   |  $$$$$$/| $$$$$$$$| $$| $$  | $$|  $$$$$$/ /$$/\  $$
+    \____ $$$|________/|__/|__/  |__/ \______/ |__/  \__/
+         \__/                                            
+  
+
+
 You can Edit/Modify this simple Python script, even without asking. However, it’s always a good gesture to give credit where it’s due.
 
 For now, this simple script is like a “Windows Quick Launch” for newbie on Linux(Basically Kali Linux). The purpose of writing this script is to overcome the hurdle and ease the use of most advanced and powerful Open-Source/Free Operating Linux as I felt like lost in ocean when started using Linux for the first time.
