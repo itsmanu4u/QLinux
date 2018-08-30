@@ -1,4 +1,6 @@
-=============================== # QLinux ===============================
+![QLinux Preview!](https://github.com/itsmanu4u/QLinux/master/QLinux.png)
+
+=============================== # QLinux V.1 ===============================
 
 
 You can Edit/Modify this simple Python script, even without asking. However, it’s always a good gesture to give credit where it’s due.
@@ -9,7 +11,12 @@ I invite everyone looking at this(README) to contribute and suggest for further 
 
 How to Use It?
 
-Either by using Python interpreter directly i.e: ( python QLinux.py ) Compile and run directly i.e (chmod +x QLinux.py)
+Either by using Python interpreter directly i.e: ( python3 QLinux.py ) Compile and run directly i.e (chmod +x QLinux.py)
 
+What's New in V.1?
+
+Bug Fixes and added payload for Network Analysis(5)
+
+=============================================================================
 
 Feel Free to Write back(mohan.2kit@gmail.com), I would be waiting for your valuable suggestions, Good or Bad :)
