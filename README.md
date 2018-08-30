@@ -1,4 +1,4 @@
-![QLinux Preview!](https://github.com/itsmanu4u/QLinux/master/QLinux.png)
+![QLinux Preview!](https://github.com/itsmanu4u/QLinux/blob/master/QLinux.png)
 
 =============================== # QLinux V.1 ===============================
 
