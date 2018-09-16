@@ -19,4 +19,4 @@ Bug Fixes and added payload for Network Analysis(5)
 
 =============================================================================
 
-Feel Free to Write back(mohan.2kit@gmail.com), I would be waiting for your valuable suggestions, Good or Bad :)
+Feel Free to Write back(techmanu.it@gmail.com), I would be waiting for your valuable suggestions, Good or Bad :)
